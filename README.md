@@ -2,8 +2,10 @@
 I love dogs. But tesla here claims that pigeons are much superior and says that the pigeons are his true friends. So we are making a site to settle this debate in a weird html off?
 
 The site contains two main paragraphs and an image supplied too.
+
 Georgey: supports dogs and will be writing a persuasive paragraph about the species Man knows with the title "Man's Best Friend". Will also follow up the paragraph with a picture of a cute dog that will give the reader of the page no choice but to side with georgey in his debate that dogs are better than pigeons. Which, will deficate on your roof and car.
 
+Tesla: supports pigeons and will be stating all of the reasons that pigeons are better than dogs. I will follow up with a personal picture of myself and a pigeon that I truly cared for. Of course until a wild probably rabies infected mangey dog with little dignity covered in mud and feces ate it.
 
 
 # Project Description
@@ -13,11 +15,13 @@ This is just a site Tesla and I, Georgey Kurien are using to settle a debate whe
 Copy the git repository to preferred project location. After that, do anything you want!
 
 # Credit
-	Georgey Kurien	-	GhostBadger
+	Georgey Kurien	- GhostBadger
+  Nikola Tesla  	- FalseTesla
 
 # MIT License
 
-Copyright (c) 2020 Georgey Kurien
+Copyright (c) 2020 Totally Geogey Kurien
+
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
